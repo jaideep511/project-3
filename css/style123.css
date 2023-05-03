@@ -139,6 +139,7 @@ video {
     z-index: 9999;
   }
   
+}
 
 /* Media queries */
 @media screen and (max-width: 576px) {
@@ -187,4 +188,4 @@ video {
       margin: 0 auto;
     }
   }
-}
+  
