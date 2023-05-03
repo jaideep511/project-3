@@ -534,32 +534,6 @@ th {
       margin: 0 auto;
     }
   }
-/*
-*/
-#wrapper-map {
-  width: 850px;
-  height: 600px;
-  background-color: #FDF5E6;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
-#canvas {
-  width: 700px;
-  height: 500px;
-  background-color: #ccc;
-  margin: 50px auto;
-}
-
-#canvas h1 {
-  color: rgb(255, 140, 0);
-}
-
-#canvas p {
-  color: black;
-}
-
-
 
   #wrapper {
     width: 850px;
